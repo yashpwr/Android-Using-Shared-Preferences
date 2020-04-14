@@ -1,0 +1,2 @@
+rootProject.name='Session Management using shared preferences android'
+include ':app'
